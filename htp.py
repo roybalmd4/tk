@@ -1,5 +1,11 @@
 import pandas as pd 
 
+'''
+    Inputs: None
+
+    Pull AZMET data from AZMET website for hourly values.
+'''
+
 def getData():
 
     # Reading the data from the AZMET website.
